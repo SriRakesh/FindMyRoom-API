@@ -1,0 +1,8 @@
+D:\FindMyRoom-DotNetWebAPI\FindMyRoom\FindMyRoom.Entities\bin\Debug\netcoreapp2.1\FindMyRoom.Entities.deps.json
+D:\FindMyRoom-DotNetWebAPI\FindMyRoom\FindMyRoom.Entities\bin\Debug\netcoreapp2.1\FindMyRoom.Entities.dll
+D:\FindMyRoom-DotNetWebAPI\FindMyRoom\FindMyRoom.Entities\bin\Debug\netcoreapp2.1\FindMyRoom.Entities.pdb
+D:\FindMyRoom-DotNetWebAPI\FindMyRoom\FindMyRoom.Entities\obj\Debug\netcoreapp2.1\FindMyRoom.Entities.csproj.CoreCompileInputs.cache
+D:\FindMyRoom-DotNetWebAPI\FindMyRoom\FindMyRoom.Entities\obj\Debug\netcoreapp2.1\FindMyRoom.Entities.AssemblyInfoInputs.cache
+D:\FindMyRoom-DotNetWebAPI\FindMyRoom\FindMyRoom.Entities\obj\Debug\netcoreapp2.1\FindMyRoom.Entities.AssemblyInfo.cs
+D:\FindMyRoom-DotNetWebAPI\FindMyRoom\FindMyRoom.Entities\obj\Debug\netcoreapp2.1\FindMyRoom.Entities.dll
+D:\FindMyRoom-DotNetWebAPI\FindMyRoom\FindMyRoom.Entities\obj\Debug\netcoreapp2.1\FindMyRoom.Entities.pdb

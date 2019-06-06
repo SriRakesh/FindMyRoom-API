@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindMyRoom.APIControllers", "FindMyRoom.APIControllers\FindMyRoom.APIControllers.csproj", "{232FB06E-40BC-40DF-8469-97BE0BB8D4DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindMyRoom.BusinessManager", "FindMyRoom.BusinessManager\FindMyRoom.BusinessManager.csproj", "{DB5B5148-D07B-4F63-8BFA-BC25E73A79E0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindMyRoom.DataService", "FindMyRoom.DataService\FindMyRoom.DataService.csproj", "{01958505-76C8-41D0-9B4B-A5B4546A7516}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindMyRoom.Entities", "FindMyRoom.Entities\FindMyRoom.Entities.csproj", "{BFA37107-3B6C-4DB4-84BC-E6BDB326E80B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindMyRoom.Exceptions", "FindMyRoom.Exceptions\FindMyRoom.Exceptions.csproj", "{FF518BDF-0745-4A51-A494-FD5CE4778FFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindMyRoom.APIControllers.Tests", "FindMyRoom.APIControllers.Tests\FindMyRoom.APIControllers.Tests.csproj", "{AB8767B0-EFCE-4153-B05C-34E6F71D1795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMyRoom.BusinessManager.Tests", "FindMyRoom.BusinessManager.Tests\FindMyRoom.BusinessManager.Tests.csproj", "{1AB8C423-8A63-426F-8C6F-8267675B2E9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{232FB06E-40BC-40DF-8469-97BE0BB8D4DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232FB06E-40BC-40DF-8469-97BE0BB8D4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232FB06E-40BC-40DF-8469-97BE0BB8D4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232FB06E-40BC-40DF-8469-97BE0BB8D4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB5B5148-D07B-4F63-8BFA-BC25E73A79E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5B5148-D07B-4F63-8BFA-BC25E73A79E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5B5148-D07B-4F63-8BFA-BC25E73A79E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5B5148-D07B-4F63-8BFA-BC25E73A79E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01958505-76C8-41D0-9B4B-A5B4546A7516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01958505-76C8-41D0-9B4B-A5B4546A7516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01958505-76C8-41D0-9B4B-A5B4546A7516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01958505-76C8-41D0-9B4B-A5B4546A7516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFA37107-3B6C-4DB4-84BC-E6BDB326E80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA37107-3B6C-4DB4-84BC-E6BDB326E80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA37107-3B6C-4DB4-84BC-E6BDB326E80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA37107-3B6C-4DB4-84BC-E6BDB326E80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF518BDF-0745-4A51-A494-FD5CE4778FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF518BDF-0745-4A51-A494-FD5CE4778FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF518BDF-0745-4A51-A494-FD5CE4778FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF518BDF-0745-4A51-A494-FD5CE4778FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB8767B0-EFCE-4153-B05C-34E6F71D1795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8767B0-EFCE-4153-B05C-34E6F71D1795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8767B0-EFCE-4153-B05C-34E6F71D1795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8767B0-EFCE-4153-B05C-34E6F71D1795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB8C423-8A63-426F-8C6F-8267675B2E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB8C423-8A63-426F-8C6F-8267675B2E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB8C423-8A63-426F-8C6F-8267675B2E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB8C423-8A63-426F-8C6F-8267675B2E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49A84D44-35F2-4A91-B05C-22C7FA91815D}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/m1041810
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = FindMyRoom.APIControllers\\FindMyRoom.APIControllers.csproj
+		SccProjectName1 = FindMyRoom.APIControllers
+		SccLocalPath1 = FindMyRoom.APIControllers
+		SccProjectUniqueName2 = FindMyRoom.BusinessManager\\FindMyRoom.BusinessManager.csproj
+		SccProjectName2 = FindMyRoom.BusinessManager
+		SccLocalPath2 = FindMyRoom.BusinessManager
+		SccProjectUniqueName3 = FindMyRoom.DataService\\FindMyRoom.DataService.csproj
+		SccProjectName3 = FindMyRoom.DataService
+		SccLocalPath3 = FindMyRoom.DataService
+		SccProjectUniqueName4 = FindMyRoom.Entities\\FindMyRoom.Entities.csproj
+		SccProjectName4 = FindMyRoom.Entities
+		SccLocalPath4 = FindMyRoom.Entities
+		SccProjectUniqueName5 = FindMyRoom.Exceptions\\FindMyRoom.Exceptions.csproj
+		SccProjectName5 = FindMyRoom.Exceptions
+		SccLocalPath5 = FindMyRoom.Exceptions
+		SccProjectUniqueName6 = FindMyRoom.APIControllers.Tests\\FindMyRoom.APIControllers.Tests.csproj
+		SccProjectName6 = FindMyRoom.APIControllers.Tests
+		SccLocalPath6 = FindMyRoom.APIControllers.Tests
+		SccProjectUniqueName7 = FindMyRoom.BusinessManager.Tests\\FindMyRoom.BusinessManager.Tests.csproj
+		SccProjectName7 = FindMyRoom.BusinessManager.Tests
+		SccLocalPath7 = FindMyRoom.BusinessManager.Tests
+	EndGlobalSection
+EndGlobal

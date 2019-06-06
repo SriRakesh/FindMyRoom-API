@@ -1,0 +1,12 @@
+D:\FindMyRoom-DotNetWebAPI\FindMyRoom\FindMyRoom.Exceptions\bin\Debug\netcoreapp2.1\FindMyRoom.Exceptions.deps.json
+D:\FindMyRoom-DotNetWebAPI\FindMyRoom\FindMyRoom.Exceptions\bin\Debug\netcoreapp2.1\FindMyRoom.Exceptions.dll
+D:\FindMyRoom-DotNetWebAPI\FindMyRoom\FindMyRoom.Exceptions\bin\Debug\netcoreapp2.1\FindMyRoom.Exceptions.pdb
+D:\FindMyRoom-DotNetWebAPI\FindMyRoom\FindMyRoom.Exceptions\bin\Debug\netcoreapp2.1\FindMyRoom.Entities.dll
+D:\FindMyRoom-DotNetWebAPI\FindMyRoom\FindMyRoom.Exceptions\bin\Debug\netcoreapp2.1\FindMyRoom.Entities.pdb
+D:\FindMyRoom-DotNetWebAPI\FindMyRoom\FindMyRoom.Exceptions\obj\Debug\netcoreapp2.1\FindMyRoom.Exceptions.csprojAssemblyReference.cache
+D:\FindMyRoom-DotNetWebAPI\FindMyRoom\FindMyRoom.Exceptions\obj\Debug\netcoreapp2.1\FindMyRoom.Exceptions.csproj.CoreCompileInputs.cache
+D:\FindMyRoom-DotNetWebAPI\FindMyRoom\FindMyRoom.Exceptions\obj\Debug\netcoreapp2.1\FindMyRoom.Exceptions.AssemblyInfoInputs.cache
+D:\FindMyRoom-DotNetWebAPI\FindMyRoom\FindMyRoom.Exceptions\obj\Debug\netcoreapp2.1\FindMyRoom.Exceptions.AssemblyInfo.cs
+D:\FindMyRoom-DotNetWebAPI\FindMyRoom\FindMyRoom.Exceptions\obj\Debug\netcoreapp2.1\FindMyRoom.Exceptions.csproj.CopyComplete
+D:\FindMyRoom-DotNetWebAPI\FindMyRoom\FindMyRoom.Exceptions\obj\Debug\netcoreapp2.1\FindMyRoom.Exceptions.dll
+D:\FindMyRoom-DotNetWebAPI\FindMyRoom\FindMyRoom.Exceptions\obj\Debug\netcoreapp2.1\FindMyRoom.Exceptions.pdb
